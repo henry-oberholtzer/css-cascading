@@ -1,0 +1,22 @@
+/* header styling */
+.header {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-color: goldenrod;
+    color: white;
+}
+
+
+
+.column {
+    width: 23%;
+    float: left;
+    margin: 1%;
+    box-sizing: border-box;
+    border: 5px solid purple;
+    padding: 5px;
+}
+
+.column img {
+    max-width: 100%;
+}
